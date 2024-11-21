@@ -45,19 +45,19 @@ Built using **Flutter**, the app integrates with **GetX** for state management, 
 ## Screenshots
 
 ### 1. Home Screen
-![Home Screen](https://github.com/user-attachments/assets/da4e291d-ee17-4ac4-a05e-ce9adb3c0d76)
+<img width="1675" alt="Screenshot 2024-11-21 at 4 58 32 PM" src="https://github.com/user-attachments/assets/87f18a1a-e55a-4bb5-bcf4-b2e0f140bd15">
 
 ### 2. Recordings List
-![Recordings List](https://github.com/user-attachments/assets/9062469b-1851-431e-b410-bbb8be5218e4)
+<img width="1675" alt="Screenshot 2024-11-21 at 5 00 29 PM" src="https://github.com/user-attachments/assets/dc8b89e0-b5ee-47ee-8537-7b08758c4bc2">
 
-### 3. Voice-to-Text
-![Voice-to-Text](https://github.com/user-attachments/assets/c673a3c9-6e05-4fed-9cb4-c38a5ead7a42)
+### 3. Text-edit-share
+<img width="1675" alt="Screenshot 2024-11-21 at 5 05 56 PM" src="https://github.com/user-attachments/assets/6a90db18-3f49-4b33-bbf3-d82294c81701">
 
 ### 4. Text-to-Voice
-![Text-to-Voice](https://github.com/user-attachments/assets/6150a917-14c6-46b3-be13-a33043925993)
+<img width="1675" alt="Screenshot 2024-11-21 at 5 06 22 PM" src="https://github.com/user-attachments/assets/7ac7a341-6b12-4b1c-a1b2-c420fda060de">
 
 ### 5. Settings
-![Settings](https://github.com/user-attachments/assets/09e0562a-43aa-4a62-8f0e-0b8b4305ee9b)
+<img width="1675" alt="Screenshot 2024-11-21 at 5 01 37 PM" src="https://github.com/user-attachments/assets/490e8b44-6fbb-4a85-87dd-7c62ac49fcb2">
 
 ## Technical Details
 
