@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:voicenotes/screens/call_recording/call_recording.dart';
 import 'package:voicenotes/screens/notes/notes.dart';
 import 'package:voicenotes/screens/recording/recording.dart';
+import 'package:voicenotes/screens/setting/setting.dart';
 
 
 class MyBottomNavigationBar extends StatefulWidget {
@@ -15,8 +16,8 @@ class _MyBottomNavigationBarState extends State<MyBottomNavigationBar> {
   static List<Widget> _widgetOptions = <Widget>[
     Recording(),
     Notes(),
-   Example(),
-    // Setting(),
+  //  Example(),
+    Setting(),
   ];
 
   void _onItemTapped(int index) {
